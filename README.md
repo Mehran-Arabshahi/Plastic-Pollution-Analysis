@@ -13,4 +13,5 @@ In order to serve this panel locally, please execute this command: panel serve i
 Sources:
 [Our World in Data](https://ourworldindata.org/plastic-pollution#:~:text=The%20world%20produces%20around%20350,plastic%20enter%20the%20oceans%20annually) , [FreePik](https://www.freepik.com/free-vector/hand-drawn-ocean-plastic-pollution-illustration_41775423.htm#query=plastic%20pollution&position=2&from_view=search&track=ais&uuid=88aa3053-3d17-4816-bccc-32fe8858a477) 
 
+![i_dashboardsc](https://github.com/Mehran-Arabshahi/Plastic-Pollution-Analysis/assets/152961981/a931c51b-1d15-48b4-9061-d60574da46b0)
 
